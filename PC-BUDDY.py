@@ -118,7 +118,6 @@ def update_movement():
 # ---------------- INPUT HANDLERS ----------------
 
 def press(cmd):
-
     held.add(cmd)
     update_movement()
 
@@ -153,7 +152,7 @@ def connect():
 # ---------------- GUI ----------------
 
 root = tk.Tk()
-root.title("RobotHax Controller")
+root.title("PC BUDDY")
 root.geometry("360x450")
 
 status = tk.StringVar()
