@@ -9,3 +9,14 @@ Allows you to control a robot called buddlets bot from your PC! Or other devices
 ### INTRODUCING...
 
 PC BUDDY! (Get it? PC Buddlets, BUDDY?)
+
+
+## TO INSTALL AND RUN RUN!
+
+```bash
+git clone https://github.com/charlies-chickens/BLE-ROBOT-PC-COMMAND-SYSTEM-FOR-BUDDLETS-BOT
+
+cd BLE-ROBOT-PC-COMMAND-SYSTEM-FOR-BUDDLETS-BOT
+
+python PC-BUDDY.py
+```
